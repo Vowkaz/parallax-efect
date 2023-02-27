@@ -22,8 +22,8 @@ export default function Home() {
                                 speed: -10,
                                 children: (
                                     <div className="absolute inset-0 flex items-center justify-center">
-                                        <h1 className="py-8 text-8xl text-black w-full text-center font-thin bg-highlight-black">Hello
-                                            World!</h1>
+                                        <h1 className="py-8 text-8xl text-slate-500 w-full text-center font-thin bg-highlight-black">
+                                            Bmw x1</h1>
                                     </div>
                                 ),
                             },
@@ -49,8 +49,9 @@ export default function Home() {
                                 speed: -10,
                                 children: (
                                     <div className="absolute inset-0 flex items-center justify-center">
-                                        <h1 className="py-8 text-8xl text-black w-full text-center font-thin bg-highlight-black">Hello
-                                            World!</h1>
+                                        <h1 className="py-8 text-8xl text-slate-500 w-full text-center font-thin bg-highlight-black">
+                                            Bmw x6
+                                        </h1>
                                     </div>
                                 ),
                             },
@@ -69,8 +70,9 @@ export default function Home() {
                                 speed: -10,
                                 children: (
                                     <div className="absolute inset-0 flex items-center justify-center">
-                                        <h1 className="py-8 text-8xl text-black w-full text-center font-thin bg-highlight-black">Hello
-                                            World!</h1>
+                                        <h1 className="py-8 text-8xl text-slate-500 w-full text-center font-thin bg-highlight-black">
+                                            audi r3
+                                        </h1>
                                     </div>
                                 ),
                             },
